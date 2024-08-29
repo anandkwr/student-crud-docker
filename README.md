@@ -53,7 +53,4 @@ This repository contains a Spring Boot application that provides a CRUD API for 
      ```
    - This will return all students present in the student database.
 
-## Notes
 
-- Ensure Docker and Docker Compose are installed and running on your machine.
-- The application is configured to run on port `8080`. Adjust the ports if necessary in `docker-compose.yml`.
